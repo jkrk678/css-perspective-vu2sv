@@ -16,8 +16,8 @@
     border: 1px solid #8d81f3;
   }
   .box {
-    min-width: 150px;
-    aspect-ratio: 1/1;
+    width: 150px;
+    height: 150px;
     background: #8d81f3;
   }
 
