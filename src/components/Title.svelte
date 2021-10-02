@@ -11,4 +11,10 @@
     font-size: 40px;
     margin: 20px;
   }
+
+  @media (max-width: 1023px) {
+      h2 {
+          margin-top: 4rem;
+      }
+  }
 </style>
