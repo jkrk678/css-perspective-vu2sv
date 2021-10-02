@@ -23,7 +23,7 @@
 
   @media (max-width: 1023px) {
       .box-frame {
-          margin: 2rem 0 0 0;
+          margin: 2rem 0;
       }
   }
 </style>
