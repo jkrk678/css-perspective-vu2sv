@@ -16,8 +16,14 @@
     border: 1px solid #8d81f3;
   }
   .box {
-    width: 150px;
-    height: 150px;
+    min-width: 150px;
+    aspect-ratio: 1/1;
     background: #8d81f3;
+  }
+
+  @media (max-width: 1023px) {
+      .box-frame {
+          margin: 2rem 0 0 0;
+      }
   }
 </style>

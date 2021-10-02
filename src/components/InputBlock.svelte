@@ -20,7 +20,7 @@
     input {
         display: block;
         margin-bottom: 10px;
-        width: 200px;
+        width: 100%;
         cursor: pointer;
     }
 </style>
